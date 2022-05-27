@@ -4,7 +4,7 @@ namespace TreinaWeb;
 
 class OlaMundo
 {
-    public function exec()
+    public function executar()
     {
         return "olá mundo";
     }
